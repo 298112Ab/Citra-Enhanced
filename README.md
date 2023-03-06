@@ -4,7 +4,7 @@ Citra
 ==============
 [![GitHub Actions Build Status](https://github.com/citra-emu/citra/workflows/citra-ci/badge.svg)](https://github.com/citra-emu/citra/actions)
 [![Bitrise CI Build Status](https://app.bitrise.io/app/4ccd8e5720f0d13b/status.svg?token=H32TmbCwxb3OQ-M66KbAyw&branch=master)](https://app.bitrise.io/app/4ccd8e5720f0d13b)
-[![Discord](https://img.shields.io/discord/220740965957107713?color=%237289DA&label=Citra&logo=discord&logoColor=white)](https://discord.gg/FAXfZV9)
+[![Discord2MeiU6o7zrVZkvJyw3FWDSkdp1X_2SSEhq8VgXsH8cVMCxsGd)](https://discord.gg/FAXfZV9)
 
 Citra is an experimental open-source Nintendo 3DS emulator/debugger written in C++. It is written with portability in mind, with builds actively maintained for Windows, Linux and macOS.
 
@@ -29,8 +29,7 @@ If you want to contribute to the user interface translation, please check out th
 ### Building
 
 * __Windows__: [Windows Build](https://github.com/citra-emu/citra/wiki/Building-For-Windows)
-* __Linux__: [Linux Build](https://github.com/citra-emu/citra/wiki/Building-For-Linux)
-* __macOS__: [macOS Build](https://github.com/citra-emu/citra/wiki/Building-for-macOS)
+* __Linux__: [](https://github.com/citra-emu/citra/wiki/Building-for-macOS)
 
 
 ### Support
